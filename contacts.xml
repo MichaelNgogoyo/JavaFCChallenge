@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Pompei</first_name>
+	<last_name>Wanjohi</last_name>
+	<phone_number>7711</phone_number>
+	<notes>mike BCT</notes>
+</contact>
+<contact>
+	<first_name>John</first_name>
+	<last_name>Makori</last_name>
+	<phone_number>0911</phone_number>
+	<notes>Elder</notes>
+</contact>
+</contacts>
